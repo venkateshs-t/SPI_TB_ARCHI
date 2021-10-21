@@ -1,4 +1,4 @@
-//`ifndef SPI_TOP_INCLUDED
+/`ifndef SPI_TOP_INCLUDED
 //`define SPI_TOP_INCLUDED
 //--------------------------------------------------------------------------------------------
 // Module:spi_top
@@ -25,7 +25,7 @@ import uvm_pkg::*;
   // uvm_config_db #(virtual spi_if)::set(null,"*","vif",vif); 
    run_test("base_test");
    end
-`endif
+//`endif
 
 
 
